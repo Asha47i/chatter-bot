@@ -20,22 +20,3 @@ This chatbot can process both **voice** and **text** inputs, making it a versati
 3. **For Text Input**: Simply type your message in the input box and press enter.
 4. The chatbot will provide a response based on your input.
 
-## Live Demo
-
-You can try the Speech-enabled Chatbot app by visiting the following link:
-
-[**Speech-enabled Chatbot**](https://chatter-bot-with.streamlit.app/)
-
-## Installation
-
-To run this app locally, follow these steps:
-
-### Prerequisites
-
-Make sure you have Python installed (preferably version 3.7+). You will also need `pip` to install the required packages.
-
-### Steps to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Asha47i/Speech-enabled-Chatbot-.git
